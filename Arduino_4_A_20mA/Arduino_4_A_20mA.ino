@@ -1,3 +1,8 @@
+/*Gerador de sinal 4 a 20 mA  ,logica desenvolvida por Vagner Fonseca
+ajuste analógico e por step de 0% a 100%
+Versão 1.0 0302-2021
+*/
+
 float valor;
 String valor1;
 const  int  Switch  =  2 ;      // o número do seletror 
